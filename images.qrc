@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>rock.JPG</file>
+    <file>paper.JPG</file>
+    <file>scissors.JPG</file>
+  </qresource>
+</RCC>
